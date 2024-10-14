@@ -70,9 +70,9 @@
 
 .content-container {
   display: flex;
-  flex-direction: column; /* Расположение блоков по колонне */
-  justify-content: space-between; /* Равномерное распределение блоков с пространством между ними */
-   /* Высота контейнера */
+  flex-direction: column; 
+  justify-content: space-between; 
+
   padding: 20px;
   position: relative;
   display: grid;
